@@ -2,6 +2,10 @@
 
 #### Week1
 
+##### Handleing pre-reqs
+
+  * A good Python tutorial is Dive into Python3: http://www.diveintopython3.net/
+
 ##### Day 1: Python and Numpy, Unix, Git,
 
   * Course overview - Scope
@@ -73,6 +77,8 @@
   * Graph databases
     * Triple stores.
   * Getting deeper with Scipy
+    * Data interpolation
+      * Basic math of cubic interpolation.
     * correlation and regression of data.
 
   *
@@ -158,12 +164,16 @@
   * Significance testing.  (This is introduced in the week 1 Scipy material)
   * Install the Statsmodels package.
   * Linear regressions in Statsmodels.
+    * Goodness of fit testing.
 
 ##### Day 3 - Web Scraping and Bootstraping of Data
 
   * Intro to Web scraping with the scrapy package.
 
-##### Day 4 - Numerial Calculus
+##### Day 4 - Numerial Calculus / Optimization methods
+
+  * Gradiant Desent & Conjugent Gradiant methods (high level description).
+  * 
 
 ##### Day 5 - Challenge project
 
@@ -184,15 +194,15 @@
 
 ##### Day 2 - PCA
 
-##### Day 3 -
+##### Day 3 - kNN Classifier, SVM
 
-##### Day 4 -
+##### Day 4 - TensorFlow tutorial and MNIST tutorial
 
-##### Day 5 - Challenge Project
+##### Day 5 - Challenge Project - notMNIST
 
 #### Week 5: Intro to Machine Learning
 
-  * Basian trees
+  * Baysian trees
   * Desicision trees
 
 ##### Day 1 -
@@ -213,6 +223,8 @@
 
 ##### Day 3 - Hive and Spark
 
+  * PySpark
+
 ##### Day 4 - Elasticsearch workshop / Elasticsearch with python
 
 ##### Day 5 - Challenge
@@ -221,14 +233,19 @@
 
   * While working on projects:
     * Basics of Neural Networks
-    * Grad
+      * Backpropagation
+      * Feed Forward
+      * Feed Back
+    * Gradiant Desent
     * ANN
     * RNN
     * CNN
+    * Hidden Markov Models
 
 #### Week 8: Project 1 Week
 
   * While working on Projects:
+    * Deep Learning
 
   * Project 1 MVP Due at end of week
 
@@ -237,7 +254,6 @@
   * While working on Projects:
     * Natural Language Processing
 
-    * Hiden Markov Models
 
 #### Week 10: Continue Project 2, new milestones for project 1
 

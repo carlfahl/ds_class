@@ -194,7 +194,13 @@
 
 ##### Day 2 - PCA
 
-##### Day 3 - kNN Classifier, SVM
+  * PCA tutorial for classification
+  * 
+
+##### Day 3 - Simple classification methods
+  * kNN Classifier
+  * SVM
+  * Desicion trees
 
 ##### Day 4 - TensorFlow tutorial and MNIST tutorial
 
@@ -221,7 +227,9 @@
 
 ##### Day 2 -
 
-##### Day 3 - Hive and Spark
+##### Day 3 - Cluster compute tools
+  * Hive and Spark
+  * Pig
 
   * PySpark
 
